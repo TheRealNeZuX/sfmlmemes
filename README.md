@@ -1,4 +1,4 @@
-Hey! It's my SFML experiments:\
+Hi! It's my SFML experiments:\
   1.funny balloons\
   2.water bubbles\
   3.lite paint version\
