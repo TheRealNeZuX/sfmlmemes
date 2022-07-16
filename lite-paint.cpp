@@ -2,7 +2,6 @@
 #include <SFML/Graphics.hpp>
 #include <vector>
 #include <unistd.h>
-#include <vector>
 
 int main(){
     sf::RenderWindow window(sf::VideoMode(1800, 720), "Earth-2");
